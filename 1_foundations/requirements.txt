@@ -4,3 +4,4 @@ gradio
 pypdf
 openai
 openai-agents
+limits[redis]>=3.0.0
